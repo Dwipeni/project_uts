@@ -33,14 +33,9 @@
                     f%2fpdmdomingo.weebly.com%2fuploads%2f9%2f2%2f0%2f9%2f92094122%2feditor%2fsubjects.png%3f1520952762&ehk=lyqL
                     xwbOd9xlnUK7aBBzSWU2uiBvIh2TokU90AO6H%2fE%3d&risl=&pid=ImgRaw&r=0" height=300 width=600>
                     <table class="table table-responsive">
-                        <tr><th>Matematika</th></tr>
-                        <tr><th>Bahasa Inggris</th></tr>
-                        <tr><th>Bahasa Brazil</th></tr>
-                        <tr><th>Bahasa Indonesia</th></tr>
-                        <tr><th>Bahasa Jepang</th></tr>
-                        <tr><th>Bahasa Argentina</th></tr>
-                        <tr><th>Geografi</th></tr>
-                        <tr><th>Fisika</th></tr>
+                        <tr><th>Matematika</th><th>Bahasa Inggris</th><th>Bahasa Brazil</th><th>Bahasa Indonesia</th></tr>
+                        <tr><th>Bahasa Jepang</th><th>Bahasa Argentina</th><th>Geografi</th><th>Fisika</th></</tr>
+    
                     </table>
                     <br><br>
 
