@@ -18,6 +18,7 @@
                     @endif
                     
                     <h1>OUR HOPE!</h1>
+                    <img src="https://terazo.com/wp-content/uploads/2020/08/twiliocontactcenter.png" height=400 width=600>
                     <p>Selamat datang teman-teman! Kami adalah bimbingan belajar terpercaya nomor 1 di 
                         perfektur Miyagi, Jepang. Website ini dibuat untuk masyarakat luas agar mengetahui tentang 
                         Karasuno Course. Teman-teman juga bisa mengikuti kursus ini secara online.</p>
@@ -28,6 +29,9 @@
                     <br><br>
 
                     <h1>OUR SUBJECTS</h1>
+                    <img src="https://th.bing.com/th/id/R.c019bf2b7a270dca38090923c70fb0ad?rik=O%2fMMP0qC9keN%2fQ&riu=http%3a%2
+                    f%2fpdmdomingo.weebly.com%2fuploads%2f9%2f2%2f0%2f9%2f92094122%2feditor%2fsubjects.png%3f1520952762&ehk=lyqL
+                    xwbOd9xlnUK7aBBzSWU2uiBvIh2TokU90AO6H%2fE%3d&risl=&pid=ImgRaw&r=0" height=300 width=600>
                     <table class="table table-responsive">
                         <tr><th>Matematika</th></tr>
                         <tr><th>Bahasa Inggris</th></tr>
@@ -41,6 +45,7 @@
                     <br><br>
 
                     <h1>OUR TUTORS</h1>
+                    <img src="https://th.bing.com/th/id/OIP.1nhF8OdbIMW1puaM_26dtgHaEr?pid=ImgDet&rs=1" height=300 width=600>
                     <table align="center" class="table table-responsive">
                         <tr align="center"><th>Nama</th><th>Mengajar</th><th>Alamat</th><th>Nomor Handphone</th></tr>
                         <tr align="center"><td>Miya Atsumu</td><td>Bahasa Inggris</td><td>Hyogo</td><td>145885</td></tr>
